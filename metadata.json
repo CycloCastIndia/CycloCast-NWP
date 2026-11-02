@@ -1,0 +1,6 @@
+{
+  "name": "CycloCast NWP Operations Platform",
+  "description": "Independent Numerical Weather Prediction System for high-resolution atmospheric modelling, regional domain nesting, forecast visualisation, and statistical verification across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
